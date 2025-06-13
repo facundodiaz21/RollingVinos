@@ -1,0 +1,6 @@
+:root{
+    --color-body:(#111026)
+}
+.fondo-color{
+    background-color: var(--color-body);
+}

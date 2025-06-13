@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.altura-carousel{
+    height: 90dvh;
+}
+
+.tamaño-image{
+    width: 100%;
+    height: 300px;
+    /* object-fit: cover; */
+    
+}
+.tamaño-card{
+    height: 100%;
+}
+.Seg-f{
+    height: 150px;
+}
+.pie-pagina{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
